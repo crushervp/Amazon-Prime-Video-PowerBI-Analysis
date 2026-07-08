@@ -1,4 +1,7 @@
 # Amazon Prime Video Catalog & Quality Analytics Dashboard
+[![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-yellow?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Data](https://img.shields.io/badge/Pandas-Data_Analysis-green?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![DAX](https://img.shields.io/badge/DAX-Measures_&_Modeling-blue?style=flat&logo=microsoft&logoColor=white)]()
 
 An enterprise-grade, 3-page Power BI dashboard providing strategic insights into Amazon Prime Video's global streaming catalog. This project transforms raw content metadata into an interactive, application-style visual interface designed for executive-level content strategy and catalog optimization.
 
