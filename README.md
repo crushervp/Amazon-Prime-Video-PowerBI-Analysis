@@ -5,7 +5,7 @@
 An enterprise-grade, 3-page Power BI dashboard providing strategic insights into Amazon Prime Video's global streaming catalog. This project transforms raw content metadata into an interactive, application-style visual interface designed for executive-level content strategy and catalog optimization.
 
 ## 📊 Dashboard Preview & Deliverables
-* **Interactive Power BI File:** `[Your_File_Name].pbix` (Download to explore data models and custom DAX measures)
+* **Interactive Power BI File:** `Amazon Prime Video Report.pbix` (Download to explore data models and custom DAX measures)
 * **Static Case Study Report:** `Amazon_Prime_Video_Catalog_Analysis.pdf` (Included in repository for quick preview)
 
 ---
